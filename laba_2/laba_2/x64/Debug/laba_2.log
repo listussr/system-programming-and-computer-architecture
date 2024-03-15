@@ -1,0 +1,104 @@
+﻿  Source.cpp
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(29,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(31,3): error C2065: mov: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(31,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(31,7): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(31,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(31,29): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(31,35): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(32,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(32,29): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(32,39): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(32,45): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(33,19): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(33,33): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(33,43): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(33,49): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,15): error C2065: добавляем: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,34): error C2065: в: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стек"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,37): error C2065: стек: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "значение"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,46): error C2065: значение: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,63): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(35,63): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,3): error C2065: mov: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,7): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,12): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,23): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,29): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,39): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(37,45): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(38,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(38,23): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(38,29): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(38,39): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(38,45): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(39,19): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(39,25): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(39,33): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(39,43): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(39,49): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(42,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(42,23): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(42,33): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(42,43): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(42,49): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(43,19): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(43,25): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(43,37): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(43,47): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(43,53): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(46,15): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(46,21): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(46,35): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(46,49): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(46,55): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(47,18): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(47,25): error C2065: d: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(47,46): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(47,60): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(47,66): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,15): error C2065: добавляем: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,34): error C2065: в: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стек"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,37): error C2065: стек: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "значение"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,46): error C2065: значение: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,63): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(50,63): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,3): error C2065: mov: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,7): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,27): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,41): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(52,47): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(53,17): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(53,27): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(53,37): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(53,43): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,14): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,27): error C2065: целая: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,38): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "часть"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "часть"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,48): error C2059: синтаксическая ошибка: )
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,38): error C2065: часть: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,52): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,62): error C2065: ecx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(54,68): error C2059: синтаксическая ошибка: ?
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,18): error C2065: eax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,31): error C2065: целая: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,42): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "часть"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "часть"
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,52): error C2059: синтаксическая ошибка: )
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,42): error C2065: часть: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,56): error C2065: ebx: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,69): error C2065: целая: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_2\laba_2\Source.cpp(56,80): fatal  error C1003: число ошибок превышает 100; остановка компиляции
