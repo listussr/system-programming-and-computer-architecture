@@ -1,0 +1,104 @@
+﻿  Source.cpp
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(26,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(28,3): error C2065: finit: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(28,14): error C2065: инициализация: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(28,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "сопроцессора"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(28,41): error C2065: сопроцессора: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(29,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(29,3): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(29,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(29,14): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(30,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(30,3): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(30,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(30,14): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(30,26): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fcom"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,3): error C2065: fcom: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,13): error C2065: сравниваем: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,34): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,40): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "и"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,40): error C2065: и: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,43): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(31,43): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(32,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstsw"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(32,3): error C2065: fstsw: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(32,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(32,9): error C2065: ax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(33,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sahf"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(33,3): error C2065: sahf: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(34,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jc"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(34,3): error C2065: jc: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(34,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Less"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(34,6): error C2065: Less: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(35,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jz"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(35,3): error C2065: jz: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(35,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Equal"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(35,6): error C2065: Equal: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(36,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(36,3): error C2065: jmp: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(36,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Greater"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(36,7): error C2065: Greater: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(39,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Less"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(40,4): error C2065: fstp: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(40,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "buf"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(40,16): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(41,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(41,4): error C2065: fstp: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(41,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "buf"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(41,16): error C2065: st: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(41,22): error C2065: empty: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(42,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(42,4): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(42,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eight"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(42,17): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(43,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(43,4): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(43,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(43,14): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(43,26): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(44,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(44,4): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(44,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(44,14): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(44,26): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(44,38): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(45,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fmul"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(45,4): error C2065: fmul: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(45,13): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(45,25): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(46,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(46,4): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(46,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(46,14): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(46,26): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(46,42): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(47,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ftst"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(47,4): error C2065: ftst: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(48,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstwt"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(48,4): error C2065: fstwt: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(48,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(48,10): error C2065: ax: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(49,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jz"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(49,4): error C2065: jz: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(49,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Division_by_zero_three_args"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(49,7): error C2065: Division_by_zero_three_args: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(50,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fdiv"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(50,4): error C2065: fdiv: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(50,13): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(50,25): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(51,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fsub"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(51,4): error C2065: fsub: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(51,13): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(52,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(52,4): error C2065: jmp: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(52,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Write_result"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(52,8): error C2065: Write_result: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(54,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Equal"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(55,4): error C2065: fld: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(55,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "min_123"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(55,19): error C3861: st: идентификатор не найден
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(56,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(56,4): error C2065: jmp: необъявленный идентификатор
+C:\University\kurs_2\semestr_2\EVM\laba_6\laba_6\Source.cpp(58,3): fatal  error C1003: число ошибок превышает 100; остановка компиляции
